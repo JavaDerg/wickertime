@@ -1,0 +1,3 @@
+[workspace]
+members = ["wickertime", "wickertime_test"]
+resolver = "2"
