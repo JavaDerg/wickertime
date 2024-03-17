@@ -1,0 +1,8 @@
+[package]
+name = "wore"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+baum = { path = "../baum" }
+nom = { version = "7.1.3", default-features = false }

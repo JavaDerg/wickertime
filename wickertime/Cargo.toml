@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-cranelift-frontend = { version = "0.105.2", default-features = false }
-cranelift-native = { version = "0.105.2", default-features = false }
-cranelift-codegen = { version = "0.105.2", default-features = false }
-cranelift-wasm = { version = "0.105.2", default-features = false }
+cranelift-frontend = { version = "0.105.2", default-features = true }
+cranelift-native = { version = "0.105.2", default-features = true }
+cranelift-codegen = { version = "0.105.2", default-features = true }
+cranelift-wasm = { version = "0.105.2", default-features = true }
